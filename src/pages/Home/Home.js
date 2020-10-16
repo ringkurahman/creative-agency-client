@@ -17,7 +17,9 @@ const Home = () => {
                 <HeroArea />
             </div>
             <BrandArea />
-            <ServiceArea />
+            <div className='service-area-container'>
+                <ServiceArea />
+            </div>
             <div className='py-5'>
                 <SlideArea />
             </div>

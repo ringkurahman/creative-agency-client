@@ -1,5 +1,5 @@
-.header-container{
-    width: 99vw;
+.header-container {
+  width: 99vw;
 }
 .header-bg-color::after {
   min-height: 600px;
@@ -8,10 +8,16 @@
   position: absolute;
   top: 0;
   right: 0;
-  background-color: #FBD062;
+  background-color: #fbd062;
   z-index: -50;
   clip-path: polygon(0 0, 100% 0, 100% 76%, 0% 100%);
 }
-.contact-bg-color{
-  background-color: #FBD062;
+.contact-bg-color {
+  background-color: #fbd062;
+}
+
+@media only screen and (min-width: 1200px) {
+  .service-area-container {
+    height: 500px;
+  }
 }
