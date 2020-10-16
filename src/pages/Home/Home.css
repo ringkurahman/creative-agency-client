@@ -1,0 +1,17 @@
+.header-container{
+    width: 99vw;
+}
+.header-bg-color::after {
+  min-height: 600px;
+  width: 100%;
+  content: ' ';
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #FBD062;
+  z-index: -50;
+  clip-path: polygon(0 0, 100% 0, 100% 76%, 0% 100%);
+}
+.contact-bg-color{
+  background-color: #FBD062;
+}

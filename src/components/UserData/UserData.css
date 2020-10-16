@@ -1,0 +1,9 @@
+.order-card{
+    border-radius: 15px;
+}
+.cancel-Btn {
+    cursor: pointer;
+    width: 100px;
+    position: absolute;
+    right: 0;
+}

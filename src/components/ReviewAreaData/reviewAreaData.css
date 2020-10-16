@@ -1,0 +1,13 @@
+.card-margin{
+    margin-bottom: -0.25rem;
+    margin-top: -1.25rem;
+}
+.user-image{
+    border-radius: 50%;
+}
+
+.review-card:hover {
+  box-shadow: 0px 30px 100px -10px rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+  cursor: pointer;
+}

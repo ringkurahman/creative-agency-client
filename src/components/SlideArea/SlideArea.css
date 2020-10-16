@@ -1,0 +1,12 @@
+.react-multi-carousel-dot button {
+    width: 1.25rem;
+    max-width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 50%;
+}
+.react-multi-carousel-dot-list{
+    
+}
+.carousel-bg{
+    background-color: #111430;
+}
