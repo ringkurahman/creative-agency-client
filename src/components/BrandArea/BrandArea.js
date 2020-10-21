@@ -11,19 +11,19 @@ const BrandArea = () => {
             <div className="row ">
                 <div className="col-10 col-sm-12 col-md-12 col-lg-12 col-xl-12 d-flex flex-wrap justify-content-around">
                 <div>
-                    <img style={{ height: '30px' }} src={slack} alt="" />
+                    <img style={{ height: '40px' }} src={slack} alt="" />
             </div>
                 <div>
-                    <img style={{ height: '30px' }} src={google} alt="" />
+                    <img style={{ height: '40px' }} src={google} alt="" />
             </div>
                 <div>
-                    <img style={{ height: '30px' }} src={uber} alt="" />
+                    <img style={{ height: '40px' }} src={uber} alt="" />
             </div>
                 <div>
-                    <img style={{ height: '30px' }} src={netflix} alt="" />
+                    <img style={{ height: '40px' }} src={netflix} alt="" />
             </div>
                 <div>
-                    <img style={{ height: '30px'}} src={airbnb} alt=""/>
+                    <img style={{ height: '40px'}} src={airbnb} alt=""/>
             </div>
             </div>
             </div>
